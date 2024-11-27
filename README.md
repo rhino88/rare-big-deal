@@ -808,5 +808,6 @@ It's free & open-source. Enjoy! 🚀
 | 🔌 | [Jason's Plugins For Carrd](https://plugins.carrd.co/?rarebigdeal) | Plugins, widgets, scripts to power up your Carrd sites. | Use **BF2024** for 40% off all plugins. Till 30 Nov. |
 | 🏎️ | [DriveDex](https://apple.co/3C8HoJX) | Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. | Lifetime 100% off |
 |  🤑 | [Small Bets Community](https://smallbets.com) | An online community for solopreneurs. Get access to experts and join a support network to help you get your first small wins. 6,000+ members! | **40% off** lifetime membership. Applied automatically. |
+| 🧹 | [Mail Sweeper](https://www.mailsweeper.co/) | Save time and money on gmail with your personal gmail janitor (one time purchase, **NOT** a subscription!) | **50% off** lifetime. Use code **BLACKFRIDAY50**. |
 
 [⬆️ All categories](#table-of-contents)
