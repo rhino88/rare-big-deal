@@ -486,6 +486,7 @@ It's free & open-source. Enjoy! 🚀
 | 📊 | [WhatPulse](https://whatpulse.org?ref=rbd) | Map your computing habits and boost productivity | 35% OFF yearly sub **HOLIDAYS24** |
 | 🌊 | [Flowlu](https://www.flowlu.com/) | All-in-one platform for business professionals. Track opportunities, manage projects, generate invoices, and collaborate with your team from a single app. | 50% OFF on Annual Plans with code 24BF50 |
 | 🧼 | [InboxPurge](https://www.inboxpurge.com/?ref=rarebigdeal) | Clean up your Gmail in minutes | 30% OFF the PRO plan with code **BF2024** |
+| 🧹 | [Mail Sweeper](https://www.mailsweeper.co/?ref=rbdgh) | Save time and money with your personal Gmail janitor. | 50% OFF with code **BLACKFRIDAY50** (one time purchase, **NOT** a subscription)|
 
 [⬆️ All categories](#table-of-contents)
 
